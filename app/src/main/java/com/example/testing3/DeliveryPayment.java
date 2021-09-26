@@ -2,7 +2,9 @@ package com.example.testing3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 public class DeliveryPayment extends AppCompatActivity {
 
@@ -11,4 +13,10 @@ public class DeliveryPayment extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_delivery_payment);
     }
+
+    public void CreateData(View view) {
+        Intent intent = new Intent(this, Wishlist.class);
+        startActivity(intent);
+    }
+
 }

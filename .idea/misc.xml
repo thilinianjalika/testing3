@@ -9,8 +9,9 @@
         <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_delivery_info.xml" value="0.25416666666666665" />
         <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_delivery_payment.xml" value="0.25416666666666665" />
         <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_delivery_review.xml" value="0.264" />
-        <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_wishlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_make_payment.xml" value="0.25416666666666665" />
+        <entry key="..\:/2yr-2sem/MAD/testing3/app/src/main/res/layout/activity_wishlist.xml" value="0.25" />
       </map>
     </option>
   </component>
@@ -19,5 +20,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.25416666666666665" />
+      </ProjectState>
+    </option>
   </component>
 </project>
