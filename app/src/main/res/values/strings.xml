@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">testing3</string>
+
+    <string name="tv_no3">Glimmer Threads</string>
+
+    <string name="tv_no4">Six Yards of Sheer Elegance</string>
+
+    <string name="startbtn">Get Started</string>
+
+    <string name="tv_no1">EMAIL</string>
+    <string name="et_email" />
+    <string name="tv_no2">FULL NAME</string>
+    <string name="et_name" />
+    <string name="tv_no5">COMPANY</string>
+    <string name="et_company" />
+    <string name="tv_no7">ADDRESS</string>
+    <string name="et_address" />
+    <string name="tv_no8">APPARTMENT/UNIT</string>
+    <string name="et_address2" />
+    <string name="tv_no9">CITY/TOWN</string>
+    <string name="et_city" />
+    <string name="tv_no10">COUNTRY</string>
+    <string name="tv_no12">POSTAL CODE</string>
+    <string name="et_pcode" />
+    <string name="tv_no13">PHONE</string>
+    <string name="et_phone" />
+    <string name="btn_deliveryinfo"><![CDATA[SAVE & CONTINUE]]></string>
+    <string name="tv_nav" />
+    <string name="tv_additem">"ADD ITEM "</string>
+    <string name="tv_prduct">Product Name</string>
+    <string name="et_product_name" />
+    <string name="tv_price">Product Price</string>
+    <string name="et_product_price" />
+    <string name="tv_product_description">Product Description</string>
+    <string name="et_product_description" />
+    <string name="tv_upload">Upload Image</string>
+    <string name="btn_select_img">SELECT IMAGE</string>
+    <string name="btn_upload_img">UPLOAD IMAGE</string>
+    <string name="btn_add_item">ADD</string>
+    <string name="tv_pname">Product Name</string>
+    <string name="tv_qty">Quantity</string>
+    <string name="tv_pprice">Price</string>
+    <string name="btn_disc"><![CDATA[-->]]></string>
+    <string name="tv_pname">Product Name</string>
+    <string name="tv_qty">Quantity</string>
+    <string name="tv_qty">Quantity</string>
+    <string name="tv_pprice">Price</string>
+    <string name="tv_discount">Discount</string>
+    <string name="et_enter_dis" />
+    <string name="tv_delivery_method">Delivery</string>
+    <string name="tv_subtot">Subtotal</string>
+    <string name="tv_delivery_charge">Delivery</string>
+    <string name="tv_total">Total</string>
+    <string name="tv_continue">CONTINUE</string>
+    <string name="tv_cardpay">Standard-card payment checkout LKR</string>
+    <string name="tv_cardpay1">Standard-card payment checkout LKR 200</string>
+    <string name="tv_cod">Cash on delivery LKR 300</string>
+    <string name="btn_wishlist_delete">✖</string>
+    <string name="tv_pname_wishlist" />
+    <string name="tv_price_wishlist" />
+    <string name="btn_select_option">Select option</string>
+
+
+</resources>
