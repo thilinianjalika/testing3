@@ -59,6 +59,16 @@
     <string name="tv_pname_wishlist" />
     <string name="tv_price_wishlist" />
     <string name="btn_select_option">Select option</string>
+    <string name="tv_contact">Contact</string>
+    <string name="tv_addres">ship to</string>
+    <string name="tv_pay">Payment</string>
+    <string name="pay_card">Card Payment</string>
+    <string name="pay_cod">Cash On Delivery</string>
+    <string name="tv_billing_address">Billing Address</string>
+    <string name="tv_ad1">same as shipping address</string>
+    <string name="tv_ad2">use a different billing address</string>
+    <string name="btn_complete_order">Complete Order</string>
+    <string name="btn_edit_contact">Change</string>
 
 
 </resources>

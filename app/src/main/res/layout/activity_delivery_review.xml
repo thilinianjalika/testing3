@@ -204,6 +204,7 @@
                     android:layout_width="178dp"
                     android:layout_height="49dp"
                     android:layout_marginTop="16dp"
+                    android:onClick="CreateData"
                     android:text="@string/tv_continue"
                     app:backgroundTint="@color/design_default_color_error"
                     app:layout_constraintBottom_toBottomOf="@+id/tv_nav"

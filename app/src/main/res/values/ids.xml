@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkBox" type="id">check_box</item>
+    <item name="checkBox2" type="id">checkBox2</item>
+    <item name="checkBox3" type="id">checkBox3</item>
+    <item name="checkBox4" type="id">checkBox4</item>
+    <item name="rImage" type="id">rImage</item>
+</resources>
