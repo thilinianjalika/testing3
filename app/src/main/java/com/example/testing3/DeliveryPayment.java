@@ -39,7 +39,7 @@ public class DeliveryPayment extends AppCompatActivity {
         @Override
         public void onClick(View view) {
             int totalamount=0;
-            StringBuilder result=new StringBuilder();
+            StringBuilder result=new StringBuilder("cicityc");
 
 
 
